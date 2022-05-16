@@ -1,0 +1,12 @@
+save name between scenes
+save highscore between sessions
+
+create new Start Menu Scene including text entry for name
+
+
+Bonus:
+create separate High Scores Scene to display multiple high scores
+
+create a Settings Scene that allows users to configure gameplay (and make it persist between sessions
+- Game Speed?
+- Add sound? (volume controls)
